@@ -1,3 +1,3 @@
 <?php
 
-echo "FTD PROFLOWERS";
+echo "Hi, my name is Jun Soo Kim";
