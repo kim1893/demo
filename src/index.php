@@ -1,3 +1,3 @@
 <?php
 
-echo "Test test test";
+echo "internship is over";
